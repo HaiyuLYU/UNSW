@@ -1,0 +1,35 @@
+Week	Topics
+
+1	1) Subject Introduction 
+	2) Conceptual Database Design
+
+2	1) Relational Data Model
+	2) Relational Algebra
+
+3	1) SQL
+	2) SampleDB
+ 
+4	1) Continue SQL 
+	2) PLpgSQL
+
+5	1) Functional Dependency
+	2) Normal Forms
+
+6	1) Relational Database Design I
+	2) Relational Database Design II
+
+7	1) UML 
+	2) Disk
+	3) Index
+
+8	1) Transaction Management
+
+9	1) Graph Processing and Applications
+
+10	1) Graph Pattern Matching I
+	2) Graph Pattern Matching II
+
+11	1) Cohesive subgraph detection
+	2) Large-scale graph processing systems
+
+12	1) Final Week
