@@ -1,0 +1,26 @@
+Week	Topics
+
+1	1) Numbers
+	2)Set
+	3)lphabets
+
+2-3	1) Logic
+
+4-6	1) Functions
+	2) Relations
+ 
+7	1) Graphs
+	2) Trees
+
+8	1) Induction
+	2) Recursion
+
+9	1) Running time of programs
+
+10-12	1) Counting
+	2) Probability
+	3) Expectation
+
+13	1) Review
+
+	1) Final Week
